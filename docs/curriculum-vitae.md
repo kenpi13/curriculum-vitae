@@ -9,7 +9,7 @@
 |しずかなインターネット|[kenpi](https://sizu.me/kenpi)|
 |Blog|[はてな](https://kenpi-tech.hatenablog.com/)|
 
-## 職務経歴
+## 経歴
 
 | 所属 | 期間 |
 |---------|---------|
