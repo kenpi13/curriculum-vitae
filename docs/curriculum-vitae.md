@@ -1,5 +1,9 @@
 ## my description
 
+## プロフィール
+- 名前：川原健太（Kawahara Kenta）
+- 生年月日：1993/05/26
+
 ## アカウント
 
 | 項目 | 概要 |
@@ -34,7 +38,3 @@
 | AWS Certified: SAP on AWS - Specialty|2023/08/19|
 | AWS Certified Advanced Networking - Specialty|2023/09/11|
 | JSTQB認定テスト技術者資格 Foundation Level|2023/01/13|
-
-## プロフィール
-- 名前：川原健太（Kawahara Kenta）
-- 生年月日：1993/05/26
