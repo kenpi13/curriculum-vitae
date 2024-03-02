@@ -37,4 +37,4 @@
 | AWS Certified Machine Learning - Specialty|2023/08/06|
 | AWS Certified: SAP on AWS - Specialty|2023/08/19|
 | AWS Certified Advanced Networking - Specialty|2023/09/11|
-| JSTQB認定テスト技術者資格 Foundation Level|2023/01/13|
+| JSTQB認定テスト技術者資格 Foundation Level|2024/01/13|
