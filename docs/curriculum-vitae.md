@@ -4,7 +4,7 @@
 
 ## Acconunt
 
-| 項目 | 概要 |
+| name | link |
 |---------|---------|
 | X | [kenpi1313](https://twitter.com/kenpi1313)    |
 | Instagram|[kenpi13](https://www.instagram.com/kenpi1313/)|
@@ -13,7 +13,7 @@
 
 ## Career
 
-| 所属 | 期間 |
+| Company | Date |
 |---------|---------|
 | 西日本鉄道株式会社 |2018/04~<br>2019/04|
 | チームラボエンジニアリング株式会社|2019/10~<br>2021/12|
@@ -22,7 +22,7 @@
 
 ## Certification
 
-| 名称 | 時 |
+| name | Date |
 |---------|---------|
 | AWS Certified Cloud Practitioner |2022/09|
 | AWS Certified Solutions Architect - Associate|2022/10|
@@ -36,6 +36,7 @@
 | AWS Certified Machine Learning - Specialty|2023/08|
 | AWS Certified: SAP on AWS - Specialty|2023/08|
 | AWS Certified Advanced Networking - Specialty|2023/09|
+| AWS Certified Data Engineer - Associate|2024/06|
 | JSTQB認定テスト技術者資格 Foundation Level|2024/01|
 | Registered Scrum Master|2024/04|
 | Registered Product Owner|2024/04|
