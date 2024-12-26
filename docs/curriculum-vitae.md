@@ -9,7 +9,6 @@
 | X | [kenpi1313](https://twitter.com/kenpi1313)    |
 | Instagram|[kenpi13](https://www.instagram.com/kenpi1313/)|
 |しずかなインターネット|[kenpi](https://sizu.me/kenpi)|
-|Blog|[はてな](https://kenpi-tech.hatenablog.com/)|
 
 ## Career
 
